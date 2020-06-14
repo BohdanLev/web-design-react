@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeaderComponent Header container initial renders properly 1`] = `
+<Header
+  date_joined={null}
+  fetched={false}
+  first_name=""
+  id={null}
+  image={null}
+  last_login={null}
+  last_name=""
+  username=""
+/>
+`;

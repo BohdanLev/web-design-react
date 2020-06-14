@@ -63,7 +63,7 @@ export default class Footer extends Component {
             </div>
           </div>
 
-          <div className="footer-copyright text-center bg-info">
+          <div id="company_name" className="footer-copyright text-center bg-info">
             ©Wanderlance 2020
           </div>
         </footer>

@@ -13,10 +13,11 @@ export default class UserCard extends Component {
           </div>
           <p class="title">{this.props.title}</p>
           <div>
-            <Link to={`/users/${this.props.ownerId}`}>
+            <Link id="link-to-owner" to={`/users/${this.props.ownerId}`}>
               <i>
                 {" "}
                 <img
+                  id="user-avatar"
                   class="user-profile-image rounded block"
                   src={this.props.userimage}
                 />{" "}

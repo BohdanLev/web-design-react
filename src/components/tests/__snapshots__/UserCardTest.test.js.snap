@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserCardComponent UserCard container initial renders properly 1`] = `<UserCard />`;
